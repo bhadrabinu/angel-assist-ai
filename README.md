@@ -247,3 +247,8 @@ By combining AI-driven operational guidance, Voice of Customer intelligence, pro
 
 The future is not faster support teams.  
 The future is smarter operational systems.
+---
+
+## License
+
+This project was created for innovation and buildathon demonstration purposes.
