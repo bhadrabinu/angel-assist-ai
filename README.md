@@ -5,16 +5,29 @@ https://angel-assist-ai-bank-lh31.bolt.host
 
 # Angel Assist AI
 
-AI-powered internal support assistant for customer support and operations teams.
+AI-Powered Operational Intelligence Platform
 
 ## Objective
-Reduce support handling time and improve operational efficiency through AI-assisted SOP guidance and troubleshooting support.
+Angel Assist AI is an AI-powered operational intelligence platform designed to improve customer support and operations workflows through SOP guidance, complaint monitoring, escalation intelligence, and proactive customer communication.
 
 ## Features
-- SOP assistance
+SOP assistance
 - TAT guidance
 - Escalation workflows
-- Support query handling
+- Complaint spike detection
+- QA monitoring support
+- Voice of Customer analytics
+- Regulatory-risk alerts
+- Smart notification engine
+- Operational analytics dashboard
+- ## Business Impact
+- Reduced Average Handling Time
+- Reduced repeat complaints
+- Improved QA efficiency
+- Faster operational guidance
+- Reduced escalation risks
+- Better complaint visibility
+- Proactive customer communication
 
 ## Categories
 - Funds
