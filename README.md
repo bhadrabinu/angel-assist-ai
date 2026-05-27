@@ -175,7 +175,21 @@ Customer Interaction
 - Repeated payout delay complaints
 - Exchange issue advisory
 - Settlement holiday impact
+---
 
+## Product Showcase
+
+### Employee AI Assistant
+Real-time SOP guidance and operational intelligence for customer support agents.
+
+### AI Risk Monitoring
+Proactive complaint spike detection, escalation monitoring, and operational risk intelligence.
+
+### Voice of Customer Analytics
+Customer sentiment analysis, complaint trends, QA intelligence, and operational dashboards.
+
+### Smart Notification Engine
+Automated customer alerts for exchange issues, settlement holidays, and operational advisories.
 ---
 
 ## Sample AI Responses
